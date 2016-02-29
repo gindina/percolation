@@ -95,6 +95,8 @@ public class Percolation {
     return count;
   }
 
+
+
   public static void main(String[] args) {
     int N =20;
     Percolation percolation = new Percolation(N);
